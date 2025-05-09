@@ -1,6 +1,6 @@
-# AI Detector using Genetic Algorithm
+# AI Detector using LSTM and BERT
 
-This project implements a **Genetic Algorithm (GA)** to evolve potential solutions for an AI-related task, such as optimization or classification. It provides a step-by-step simulation of natural selection—where candidate solutions improve over time according to a defined fitness function.
+This project implements a **LSTM and BERT** to evolve potential solutions for an AI-related task, such as optimization or classification. It provides a step-by-step simulation of natural selection—where candidate solutions improve over time according to a defined fitness function.
 
 Built entirely in a Jupyter Notebook, the project is ideal for education, experimentation, and demonstrations of evolutionary computing concepts.
 
